@@ -1,0 +1,20 @@
+{
+  "name": "quora-posts",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/VanshGarg0312/Quora-Posts#readme",
+  "bugs": {
+    "url": "https://github.com/VanshGarg0312/Quora-Posts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanshGarg0312/Quora-Posts.git"
+  },
+  "license": "ISC",
+  "author": "Vansh Garg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
