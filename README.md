@@ -22,12 +22,6 @@ A simple **blog-style web application** where users can view Quora-like posts. B
 3. Start the server:
 
    ```bash
-   npm start
-   ```
-
-   or
-
-   ```bash
    node index.js
    ```
 
